@@ -4,6 +4,10 @@
 
 ## Development
 
+### Requirements
+
+[stack](https://docs.haskellstack.org/en/stable/README/#how-to-install)
+
 ### Unit test
 
 ```
